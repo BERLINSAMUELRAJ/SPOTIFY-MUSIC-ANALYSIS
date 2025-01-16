@@ -13,7 +13,7 @@ This project aims to build a music analysis dashboard that provides insightful d
 - **Search Functionality**: Search for tracks, artists, and playlists directly from the dashboard.
 
 ## SNAPSHOT OF THE DASHBOARD
-SEE THE FULL DASHBOARD HERE - [APP POWER BI LINK] (https://app.powerbi.com/view?r=eyJrIjoiZTczYTRiZDAtN2U3Yy00NWI3LWI5ZjgtNmM5Njg2OGU1OTBmIiwidCI6ImI1NzkyOWNlLTZjNDMtNDUzZC1hZDdiLTc2MTJiNDA4NWQyMCJ9)
+SEE THE FULL DASHBOARD HERE - [APP POWER BI LINK](https://app.powerbi.com/view?r=eyJrIjoiZTczYTRiZDAtN2U3Yy00NWI3LWI5ZjgtNmM5Njg2OGU1OTBmIiwidCI6ImI1NzkyOWNlLTZjNDMtNDUzZC1hZDdiLTc2MTJiNDA4NWQyMCJ9)
 ![](https://github.com/BERLINSAMUELRAJ/SPOTIFY-MUSIC-ANALYSIS/blob/main/SPOTIFY%20DASHBAORD%20SCREENSHOT.png)
 
 
