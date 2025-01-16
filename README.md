@@ -12,6 +12,10 @@ This project aims to build a music analysis dashboard that provides insightful d
 - **Visualization**: Display interactive charts and graphs to better understand the music data.
 - **Search Functionality**: Search for tracks, artists, and playlists directly from the dashboard.
 
+## SNAPSHOT OF THE DASHBOARD
+![](https://github.com/BERLINSAMUELRAJ/SPOTIFY-MUSIC-ANALYSIS/blob/main/SPOTIFY%20DASHBAORD%20SCREENSHOT.png)
+
+
 ## Main Areas of Analysis
 
 Spotify music analysis focuses on extracting various types of data and key performance indicators (KPIs) related to music tracks, albums, artists, and playlists. These metrics provide valuable insights into musical trends, preferences, and how tracks or artists are performing within the platform. Here are the core aspects of Spotify music analysis, along with relevant KPIs and their potential use cases:
