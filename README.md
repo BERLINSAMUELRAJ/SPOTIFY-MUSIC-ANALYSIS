@@ -1,6 +1,11 @@
 # SPOTIFY MUSIC ANALYSIS DASHBOARD
 ![](https://github.com/BERLINSAMUELRAJ/SPOTIFY-MUSIC-ANALYSIS/blob/main/Spotify_logo_horizontal_black.jpg)
 
+## Dataset
+
+The data for this project is sourced from the Kaggle dataset:
+
+- **Dataset Link:** [SPOTIFY Dataset](https://www.novypro.com/project/onyx-data-datadna-datatset-challenge---spotify-most-streamed-songs-2023-dataset---october-2023-vbb-power-bi)
 
 ## Project Overview
 This project aims to build a music analysis dashboard that provides insightful data and visualizations about tracks, albums, artists, and playlists from Spotify. By utilizing the Spotify API, the dashboard enables users to explore music data, analyze trends, and discover music preferences.
